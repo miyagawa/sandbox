@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = /Users/tatsuhiko/dev/sandbox-sub
