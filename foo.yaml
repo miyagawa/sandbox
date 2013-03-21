@@ -2,3 +2,6 @@ foo:
   bar
 bar:
   baz
+quuux:
+  - 1
+  - 2
